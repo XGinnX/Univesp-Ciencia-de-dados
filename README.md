@@ -1,4 +1,4 @@
-#📊 Estudos em Ciência de Dados
+# Estudos em Ciência de Dados 📊 
 
 Este repositório reúne meus estudos, experimentos, anotações e projetos desenvolvidos ao longo da minha jornada de aprendizado em Ciência de Dados.
 
